@@ -14,7 +14,7 @@
     ?>
 
     <h1 class="text-center text-secondary my-5 py-2">CONTACT FORM 8 MESSAGES</h1>
-
+<p class="text-center">[Contact_Form_8]</p>
 
 
 
